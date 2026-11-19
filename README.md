@@ -9,7 +9,7 @@ Graduando em Engenharia de Software, focado em **Cloud Computing**, automação,
 
 ### Conecte-se
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ewerton-sousa2406)
-[![Portfólio](https://skillicons.dev/icons?i=web)](https://ewerton-ux.github.io/Ewerton./)
+[![Portfólio](https://skillicons.dev/icons?i=html)](https://ewerton-ux.github.io/Ewerton./)
 
 ### Idiomas
 `Português — Nativo` · `Inglês — B1`
