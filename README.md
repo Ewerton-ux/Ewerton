@@ -8,8 +8,12 @@ Graduando em Engenharia de Software, focado em **Cloud Computing**, automação,
 [![Minhas Skills](https://skillicons.dev/icons?i=aws,python,docker,js,linux,git)](https://skillicons.dev)
 
 ### Conecte-se
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ewerton-sousa2406)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Web-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ewerton-ux.github.io/Ewerton./)
+<a href="https://www.linkedin.com/in/ewerton-sousa2406">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="48" alt="LinkedIn" />
+</a>
+<a href="https://ewerton-ux.github.io/Ewerton./">
+  <img src="https://img.icons8.com/fluency/96/folder-invoices.png" height="48" alt="Portfólio" />
+</a>
 
 ### Idiomas
 `Português — Nativo` · `Inglês — B1`
